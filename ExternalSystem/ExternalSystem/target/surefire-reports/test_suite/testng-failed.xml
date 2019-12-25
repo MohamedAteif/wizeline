@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [test_suite]" verbose="0">
+  <test name="test(failed)">
+    <classes>
+      <class name="MOJ.ExternalSystem.TestUserLoginAsOwner">
+        <methods>
+          <include name="Test_User_Login_As_Owner"/>
+          <include name="Close_External_System"/>
+          <include name="Open_External_System"/>
+        </methods>
+      </class> <!-- MOJ.ExternalSystem.TestUserLoginAsOwner -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [test_suite] -->

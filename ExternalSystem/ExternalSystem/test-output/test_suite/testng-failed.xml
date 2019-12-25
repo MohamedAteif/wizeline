@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [test_suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="test(failed)">
+    <classes>
+      <class name="MOJ.ExternalSystem.TestUserLoginAsDelegate">
+        <methods>
+          <include name="Test_User_Login_As_Delegator"/>
+          <include name="Close_External_System"/>
+          <include name="Open_External_System"/>
+        </methods>
+      </class> <!-- MOJ.ExternalSystem.TestUserLoginAsDelegate -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [test_suite] -->
