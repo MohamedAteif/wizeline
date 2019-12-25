@@ -5,3 +5,5 @@ Automation Project prerequisites:
 2- maven version  3.6.1
 3- java and maven environment variables are added to system environment variable
 
+Note: you might find non related nameing for packages and classes names, sorry for that but needed to finish with in the 90 minutes available. the quality project can be very much enhanced if there was more time. Thank you for your understanding
+
